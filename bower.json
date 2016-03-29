@@ -1,0 +1,19 @@
+{
+  "name": "simplediff",
+  "version": "1.0",
+  "homepage": "https://github.com/paulgb/simplediff",
+  "authors": [
+    "Paul Butler"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
